@@ -1,5 +1,10 @@
 # SQL Business Analysis of the Chinook Music Store Database
 
+![SQL](https://img.shields.io/badge/SQL-SQLite-blue)
+![Database](https://img.shields.io/badge/Database-Chinook-green)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
+![License](https://img.shields.io/badge/License-MIT-yellow)
+
 ## Overview
 
 This project presents an end-to-end business analysis of the Chinook Music Store database using SQL. The objective is to analyze sales performance, customer behavior, and product trends by answering business-focused questions using real transactional data.
