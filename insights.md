@@ -42,13 +42,13 @@ The overall revenue provides a baseline KPI for evaluating future business growt
 
 ### Result
 
-| Rank | Country | Revenue |
-
-| 1 | USA - 523.06
-| 2 | Canada - 303.96
-| 3 | France - 195.10
-| 4 | Brazil - 190.10
-| 5 | Germany - 156.48
+| Rank | Country | Revenue (USD) |
+|------|---------|--------------:|
+| 1 | USA | 523.06 |
+| 2 | Canada | 303.96 |
+| 3 | France | 195.10 |
+| 4 | Brazil | 190.10 |
+| 5 | Germany | 156.48 |
 
 ### Business Insight
 
@@ -64,13 +64,13 @@ Continue investing in customer acquisition and retention strategies in the Unite
 
 #### Result
 
-| Rank | City | Revenue |
-
-| 1 | Prague - 90.24
-| 2 | Paris - 77.24
-| 3 | Mountain View - 77.24
-| 4 | São Paulo - 75.24
-| 5 | London - 75.24
+| Rank | City | Revenue (USD) |
+|------|------|--------------:|
+| 1 | Prague | 90.24 |
+| 2 | Paris | 77.24 |
+| 3 | Mountain View | 77.24 |
+| 4 | São Paulo | 75.24 |
+| 5 | London | 75.24 |
 
 #### Business Insight
 
@@ -88,8 +88,8 @@ The company should strengthen customer engagement and retention efforts in these
 #### Result
 
 | KPI | Value |
-
-| Average Invoice Value - 5.65
+|-----|------:|
+| Average Invoice Value | 5.65 |
 
 #### Key Findings
 
@@ -113,7 +113,7 @@ To increase the average invoice value, the company could introduce product bundl
 #### Result
 
 | Metric | Observation |
-
+|--------|-------------|
 | Analysis Period | January 2021 – December 2025 |
 | Highest Monthly Revenue | **52.62** (January 2022) |
 | Second Highest Revenue | **51.62** (April 2023) |
@@ -165,7 +165,7 @@ Further investigation should be conducted to determine the factors behind the re
 #### Result
 
 | Rank | Customer | Country | Total Spent | Total Orders |
-
+|-----:|----------|---------|------------:|-------------:|
 | 1 | Helena Holý | Czech Republic | **49.62** | 7 |
 | 2 | Richard Cunningham | USA | **47.62** | 7 |
 | 3 | Luis Rojas | Chile | **46.62** | 7 |
@@ -201,7 +201,7 @@ Introduce VIP rewards, personalized product recommendations, and exclusive offer
 #### Result
 
 | Rank | Country | Customers |
-
+|-----:|---------|----------:|
 | 1 | USA | **13** |
 | 2 | Canada | **8** |
 | 3 | France | **5** |
@@ -252,7 +252,7 @@ Continue investing in customer acquisition and retention initiatives in North Am
 #### Result
 
 | Rank | Customer | Orders Placed |
-
+|-----:|----------|--------------:|
 | 1 | Luís Gonçalves | 7 |
 | 2 | Leonie Köhler | 7 |
 | 3 | François Tremblay | 7 |
@@ -288,7 +288,7 @@ Increase revenue by encouraging higher-value purchases through cross-selling, up
 #### Result
 
 | KPI | Value |
-
+|-----|------:|
 | Average Customer Spending | **39.47** |
 
 #### Key Findings
@@ -314,7 +314,7 @@ Use customer segmentation to identify above-average spenders and develop targete
 #### Result
 
 | Rank | Customer | Total Spent |
-
+|-----:|----------|------------:|
 | 1 | Helena Holý | **49.62** |
 | 2 | Richard Cunningham | **47.62** |
 | 3 | Luis Rojas | **46.62** |
@@ -353,6 +353,7 @@ Implement tier-based customer segmentation (Gold, Silver, Bronze) using spending
 #### Result
 
 | Rank | Genre | Revenue |
+|-----:|-------|---------:|
 | 1 | Rock | **826.65** |
 | 2 | Latin | **382.14** |
 | 3 | Metal | **261.36** |
@@ -387,7 +388,7 @@ Prioritize licensing, promoting, and expanding the Rock catalog while continuing
 #### Result
 
 | Rank | Artist | Revenue |
-
+|-----:|--------|---------:|
 | 1 | Iron Maiden | **138.60** |
 | 2 | U2 | **105.93** |
 | 3 | Metallica | **90.09** |
@@ -422,7 +423,7 @@ Continue investing in high-performing rock artists while expanding premium TV an
 #### Result
 
 | Rank | Album | Artist | Revenue |
-
+|-----:|-------|--------|---------:|
 | 1 | Battlestar Galactica (Classic), Season 1 | Battlestar Galactica (Classic) | **35.82** |
 | 2 | The Office, Season 3 | The Office | **31.84** |
 | 3 | Minha Historia | Chico Buarque | **26.73** |
@@ -457,7 +458,7 @@ Increase investment in bundled premium content such as television series and com
 #### Result
 
 | Rank | Track | Artist | Purchases |
-
+|-----:|-------|--------|----------:|
 | 1 | Balls to the Wall | Accept | **2** |
 | 2 | Inject The Venom | AC/DC | **2** |
 | 3 | Snowballed | AC/DC | **2** |
@@ -492,7 +493,7 @@ Maintain a broad and diverse music catalog while using recommendation engines an
 #### Result
 
 | Rank | Media Type | Purchases |
-
+|-----:|------------|----------:|
 | 1 | MPEG audio file | **1976** |
 | 2 | Protected AAC audio file | **146** |
 | 3 | Protected MPEG-4 video file | **111** |
